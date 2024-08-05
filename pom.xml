@@ -20,9 +20,11 @@
     <artifactId>spring-context</artifactId>
     <version>6.1.11</version>
 </dependency>
+    <dependency>
 <plugin>
   <artifactId>maven-war-plugin</artifactId>
   <version>3.0.0</version>
 </plugin>
+      </dependency>
   </dependencies>
 </project>
